@@ -1,0 +1,8 @@
+
+.idea/*
+.classpath
+.project
+.settings/*
+HadoopWordCount.iml
+src/main/resources/output/*
+target/*
